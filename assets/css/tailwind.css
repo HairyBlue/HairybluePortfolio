@@ -1,0 +1,13 @@
+* {
+    font-family: 'Old Standard TT', serif;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #d6d3d1;
+    color: #030712;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
