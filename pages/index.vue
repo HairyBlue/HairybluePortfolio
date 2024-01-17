@@ -8,7 +8,7 @@ useHead(setMeta);
     <NuxtLayout>
         <main class="w-3/4 max-[460px]:w-[90%] m-auto">
             <HeroContent />
-            <ProjectContent />
+            <!-- <ProjectContent /> -->
         </main>
     </NuxtLayout>
 </template>
